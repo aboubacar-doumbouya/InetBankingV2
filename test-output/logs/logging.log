@@ -1,0 +1,80 @@
+2023-02-08 12:33:05 INFO  ebanking:16 - URL is open
+2023-02-08 12:33:06 INFO  ebanking:27 - Entered username
+2023-02-08 12:33:08 INFO  ebanking:30 - Entered password
+2023-02-08 12:33:09 INFO  ebanking:33 - submit button wil be clicked in 5 seconds
+2023-02-08 12:33:15 INFO  ebanking:39 - Loging test passed
+2023-02-08 12:36:10 INFO  ebanking:16 - URL is open
+2023-02-08 12:36:11 INFO  ebanking:27 - Entered username
+2023-02-08 12:36:13 INFO  ebanking:30 - Entered password
+2023-02-08 12:36:14 INFO  ebanking:33 - submit button wil be clicked in 5 seconds
+2023-02-08 12:36:20 INFO  ebanking:39 - Loging test passed
+2023-02-08 12:51:31 INFO  ebanking:16 - URL is open
+2023-02-08 12:51:32 INFO  ebanking:27 - Entered username
+2023-02-08 12:51:34 INFO  ebanking:30 - Entered password
+2023-02-08 12:51:35 INFO  ebanking:33 - submit button wil be clicked in 5 seconds
+2023-02-08 12:51:41 INFO  ebanking:39 - Loging test passed
+2023-02-08 12:52:16 INFO  ebanking:16 - URL is open
+2023-02-08 12:52:17 INFO  ebanking:27 - Entered username
+2023-02-08 12:52:19 INFO  ebanking:30 - Entered password
+2023-02-08 12:52:20 INFO  ebanking:33 - submit button wil be clicked in 5 seconds
+2023-02-08 12:52:26 INFO  ebanking:39 - Loging test passed
+2023-02-08 12:53:23 INFO  ebanking:16 - URL is open
+2023-02-08 12:53:25 INFO  ebanking:28 - Entered username
+2023-02-08 12:53:27 INFO  ebanking:31 - Entered password
+2023-02-08 12:53:28 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-08 12:53:34 INFO  ebanking:40 - Loging test passed
+2023-02-08 14:12:58 INFO  ebanking:16 - URL is open
+2023-02-08 14:12:59 INFO  ebanking:28 - Entered username
+2023-02-08 14:13:01 INFO  ebanking:31 - Entered password
+2023-02-08 14:13:02 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-08 14:13:09 INFO  ebanking:40 - Loging test passed
+2023-02-08 14:16:46 INFO  ebanking:16 - URL is open
+2023-02-08 14:16:47 INFO  ebanking:28 - Entered username
+2023-02-08 14:16:49 INFO  ebanking:31 - Entered password
+2023-02-08 14:16:50 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-08 14:16:56 INFO  ebanking:40 - Loging test passed
+2023-02-08 14:53:13 INFO  ebanking:16 - URL is open
+2023-02-08 14:53:14 INFO  ebanking:28 - Entered username
+2023-02-08 14:53:16 INFO  ebanking:31 - Entered password
+2023-02-08 14:53:17 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-08 14:53:23 INFO  ebanking:40 - Loging test passed
+2023-02-08 15:43:32 INFO  ebanking:16 - URL is open
+2023-02-08 15:43:34 INFO  ebanking:28 - Entered username
+2023-02-08 15:43:36 INFO  ebanking:31 - Entered password
+2023-02-08 15:43:37 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-08 15:43:43 INFO  ebanking:40 - Loging test passed
+2023-02-08 15:57:14 INFO  ebanking:16 - URL is open
+2023-02-08 15:57:16 INFO  ebanking:28 - Entered username
+2023-02-08 15:57:18 INFO  ebanking:31 - Entered password
+2023-02-08 15:57:19 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-08 15:57:25 INFO  ebanking:40 - Loging test passed
+2023-02-08 16:53:38 INFO  ebanking:16 - URL is open
+2023-02-08 16:53:40 INFO  ebanking:28 - Entered username
+2023-02-08 16:53:42 INFO  ebanking:31 - Entered password
+2023-02-08 16:53:43 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-08 16:53:49 INFO  ebanking:40 - Loging test passed
+2023-02-08 16:55:52 INFO  ebanking:16 - URL is open
+2023-02-08 16:55:53 INFO  ebanking:28 - Entered username
+2023-02-08 16:55:55 INFO  ebanking:31 - Entered password
+2023-02-08 16:55:56 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-08 16:56:02 INFO  ebanking:40 - Loging test passed
+2023-02-08 16:57:28 INFO  ebanking:16 - URL is open
+2023-02-08 16:57:30 INFO  ebanking:28 - Entered username
+2023-02-08 16:57:32 INFO  ebanking:31 - Entered password
+2023-02-08 16:57:33 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-08 16:57:39 INFO  ebanking:40 - Loging test passed
+2023-02-08 17:03:42 INFO  ebanking:16 - URL is open
+2023-02-08 17:03:44 INFO  ebanking:28 - Entered username
+2023-02-08 17:03:46 INFO  ebanking:31 - Entered password
+2023-02-08 17:03:47 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-08 17:03:53 INFO  ebanking:40 - Loging test passed
+2023-02-08 17:52:25 INFO  ebanking:16 - URL is open
+2023-02-08 17:52:26 INFO  ebanking:28 - Entered username
+2023-02-08 17:52:28 INFO  ebanking:31 - Entered password
+2023-02-08 17:52:29 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-08 17:52:35 INFO  ebanking:40 - Loging test passed
+2023-02-09 09:37:52 INFO  ebanking:16 - URL is open
+2023-02-09 09:37:54 INFO  ebanking:28 - Entered username
+2023-02-09 09:37:56 INFO  ebanking:31 - Entered password
+2023-02-09 09:37:57 INFO  ebanking:34 - submit button wil be clicked in 5 seconds
+2023-02-09 09:38:02 INFO  ebanking:40 - Loging test passed
